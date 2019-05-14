@@ -1,30 +1,38 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log - Andrew Zhang
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+> *This will be more like a diary of thoughts and learning rather than dedicated to an hour a day on a certain project.*
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+## Planned Todo List
+- [ ] Finish Colt Steele's WebDevBootcamp.
+- [ ] Finish FreeCodecamp's Responsive Web Design Course.
+- [ ] Build at least 2 Personal Projects.
+- [ ] Build at least 3 Mini Projects dealing with a certain functionality.
+- [ ] Start Colt Steele's React Course.
+- [ ] Practice on Front/Backend Coding Challenge.
+- [ ] Continue with StuMe after Uni
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+### Day 1: May 14, 2019
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Today's Progress:**
+* Worked on University Project trying to understand how to use express-validation package to do custom validations. Finally managed to get through the validation and check that it works (I hope). Just need to decide on the details now such as how long to make the minimum length of password etc.
+* Read through MarkDown Guide by Github.
+* Started looking through the FreeCodeCamp Curriculum and had a start at the Responsive Web Design Certification Curriculum. Was interesting to learn some small bits about HTML that I didn't realise like jumping to different parts of the page using anchor tags and # to an id. Got through a bit of the HTML curriculum as a break from University Project.
+* Got stuck on making a Date picker that blocks past dates from being selected.
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Things to Remember**
+* express-validator custom validations (Ones that start with body(*field*).custom(value => {) must always have a return false/true or else will have an Invalid type error (seen in postman when doing Post Request)
+* Don't spend so much time on one small thing when there are more important things to work on!
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** 
+* Started this challenge in the hopes of entering a constant cycle of learning and exposing myself to more in the dev community. So far it is pretty interesting reading through other peoples challenges and progress. Hoping to plan out a proper routine and something I want to build as a project.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link(s) to resources I found interesting:** 
+* [Medium Post: FreeCodeCamp - How to perform custom validation in your express.js app](https://medium.freecodecamp.org/how-to-perform-custom-validation-in-your-express-js-app-432eb423510f)
+* [Express-Validator Documentation](https://express-validator.github.io/docs/custom-validators-sanitizers.html)
+* [Github Guide to Mastering Markdowns](https://guides.github.com/features/mastering-markdown/)
+* [Express-Validator Optionals](https://stackoverflow.com/questions/24681971/express-validator-how-to-allow-optional-fields)
+* [Express-Validator Check alphanumeric if not empty](https://stackoverflow.com/questions/43571469/node-js-express-validator-check-if-field-is-numeric-only-if-it-is-not-empty)
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work:** 
+* [University Project Website](https://stume.herokuapp.com) (Not linking github as it is private for tutors to mark)
+* [FreeCodeCamp Daily-Work Timeline](https://www.freecodecamp.org/fcc863fdc60-4853-4520-93da-668ce5ffd9b2)
