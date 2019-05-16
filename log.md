@@ -36,3 +36,27 @@
 **Link(s) to work:** 
 * [University Project Website](https://stume.herokuapp.com) (Not linking github as it is private for tutors to mark)
 * [FreeCodeCamp Daily-Work Timeline](https://www.freecodecamp.org/fcc863fdc60-4853-4520-93da-668ce5ffd9b2)
+
+### Day 2: May 15, 2019
+
+**Today's Progress:**
+* Reworked university websites timepicker
+* Got through some of WebDevBootcamp on jQuery (I've actually finished most of the course but I skipped some parts to get to sections I needed at the time. And now I'm going back through the parts I've skipped.
+
+**Things to Remember**
+* Include jQuery files at the bottom and in app.js make sure to include __dirname.
+* Keep things organised and commented out so you don't get confused later on.
+* Tempus Dominus uses startDate instead of minDate.
+* Errors can occur when having two jQuery script tags in code. Make sure not to double up!
+
+**Thoughts:** 
+* Got really stuck trying to work on this datetimepicker and making sure everything is correct. Finally got it working but really shouldn't stay up until 4am working on it. It was satisfying to finally get things working and understand more about what I got wrong and why it behaved the way it did!
+
+**Link(s) to resources I found interesting:** 
+* [Tempus Dominus Bootstrap4](https://tempusdominus.github.io/bootstrap-4/Usage/) (Used for timepicking)
+* [Convert date of dd/mm/yyyy to Date format (e.g Thu 4 May) stackoverflow](https://stackoverflow.com/a/4048698/11505818)
+
+**Link(s) to work:** 
+* [University Project Website](https://stume.herokuapp.com) (Not linking github as it is private for tutors to mark)
+* [Colt Steele WebDevBootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
