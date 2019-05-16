@@ -60,3 +60,25 @@
 * [University Project Website](https://stume.herokuapp.com) (Not linking github as it is private for tutors to mark)
 * [Colt Steele WebDevBootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
+### Day 3: May 16, 2019
+
+**Today's Progress:**
+* Made event default pictures based off type of event selected.
+* Fixed CSS Styling.
+* Finished Introduction to Basic HTML and HTML5 on FreeCodeCamp.
+* Split textarea input into an array to output with lines (previously newlines would not be registered).
+
+**Things to Remember**
+* Turning off autocomplete for text boxes is autocomplete:"off". Do this for dates where input type="text"!
+* Split up CSS files to be more manageable.
+
+**Thoughts:** 
+* Didn't do too much today, but the changes made were good. Still much to do, hopefully tomorrow I can start on something more substantial! Should sleep earlier! Also need to figure out how to manipulate MazeMap as it ignores footers and any other forms of styling.
+
+**Link(s) to resources I found interesting:** 
+* [Breaking up CSS files](http://alistapart.com/article/progressiveenhancementwithcss/)
+* [Javascript Grammar - Greg Sidelnikov (Book)](https://www.amazon.com/JavaScript-Grammar-Greg-Sidelnikov/dp/1091212163/ref=as_li_ss_tl?keywords=javascript+grammar&qid=1553679757&s=gateway&sr=8-3&linkCode=sl1&tag=twitter-subteach-20&linkId=5c2d3f93879fad6cfe766f185410cef6&language=en_US)
+
+**Link(s) to work:** 
+* [University Project Website](https://stume.herokuapp.com) (Not linking github as it is private for tutors to mark)
+* [FreeCodeCamp Daily-Work Timeline](https://www.freecodecamp.org/fcc863fdc60-4853-4520-93da-668ce5ffd9b2)
