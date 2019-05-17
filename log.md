@@ -23,17 +23,17 @@
 * express-validator custom validations (Ones that start with body(*field*).custom(value => {) must always have a return false/true or else will have an Invalid type error (seen in postman when doing Post Request)
 * Don't spend so much time on one small thing when there are more important things to work on!
 
-**Thoughts:** 
+**Thoughts:**
 * Started this challenge in the hopes of entering a constant cycle of learning and exposing myself to more in the dev community. So far it is pretty interesting reading through other peoples challenges and progress. Hoping to plan out a proper routine and something I want to build as a project.
 
-**Link(s) to resources I found interesting:** 
+**Link(s) to resources I found interesting:**
 * [Medium Post: FreeCodeCamp - How to perform custom validation in your express.js app](https://medium.freecodecamp.org/how-to-perform-custom-validation-in-your-express-js-app-432eb423510f)
 * [Express-Validator Documentation](https://express-validator.github.io/docs/custom-validators-sanitizers.html)
 * [Github Guide to Mastering Markdowns](https://guides.github.com/features/mastering-markdown/)
 * [Express-Validator Optionals](https://stackoverflow.com/questions/24681971/express-validator-how-to-allow-optional-fields)
 * [Express-Validator Check alphanumeric if not empty](https://stackoverflow.com/questions/43571469/node-js-express-validator-check-if-field-is-numeric-only-if-it-is-not-empty)
 
-**Link(s) to work:** 
+**Link(s) to work:**
 * [University Project Website](https://stume.herokuapp.com) (Not linking github as it is private for tutors to mark)
 * [FreeCodeCamp Daily-Work Timeline](https://www.freecodecamp.org/fcc863fdc60-4853-4520-93da-668ce5ffd9b2)
 
@@ -49,14 +49,14 @@
 * Tempus Dominus uses startDate instead of minDate.
 * Errors can occur when having two jQuery script tags in code. Make sure not to double up!
 
-**Thoughts:** 
+**Thoughts:**
 * Got really stuck trying to work on this datetimepicker and making sure everything is correct. Finally got it working but really shouldn't stay up until 4am working on it. It was satisfying to finally get things working and understand more about what I got wrong and why it behaved the way it did!
 
-**Link(s) to resources I found interesting:** 
+**Link(s) to resources I found interesting:**
 * [Tempus Dominus Bootstrap4](https://tempusdominus.github.io/bootstrap-4/Usage/) (Used for timepicking)
 * [Convert date of dd/mm/yyyy to Date format (e.g Thu 4 May) stackoverflow](https://stackoverflow.com/a/4048698/11505818)
 
-**Link(s) to work:** 
+**Link(s) to work:**
 * [University Project Website](https://stume.herokuapp.com) (Not linking github as it is private for tutors to mark)
 * [Colt Steele WebDevBootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
 
@@ -64,7 +64,7 @@
 
 **Today's Progress:**
 * Made event default pictures based off type of event selected.
-* Fixed CSS Styling.
+* Fixed CSS Styling for website.
 * Finished Introduction to Basic HTML and HTML5 on FreeCodeCamp.
 * Split textarea input into an array to output with lines (previously newlines would not be registered).
 
@@ -72,13 +72,32 @@
 * Turning off autocomplete for text boxes is autocomplete:"off". Do this for dates where input type="text"!
 * Split up CSS files to be more manageable.
 
-**Thoughts:** 
+**Thoughts:**
 * Didn't do too much today, but the changes made were good. Still much to do, hopefully tomorrow I can start on something more substantial! Should sleep earlier! Also need to figure out how to manipulate MazeMap as it ignores footers and any other forms of styling.
 
-**Link(s) to resources I found interesting:** 
+**Link(s) to resources I found interesting:**
 * [Breaking up CSS files](http://alistapart.com/article/progressiveenhancementwithcss/)
 * [Javascript Grammar - Greg Sidelnikov (Book)](https://www.amazon.com/JavaScript-Grammar-Greg-Sidelnikov/dp/1091212163/ref=as_li_ss_tl?keywords=javascript+grammar&qid=1553679757&s=gateway&sr=8-3&linkCode=sl1&tag=twitter-subteach-20&linkId=5c2d3f93879fad6cfe766f185410cef6&language=en_US)
+* [Svelte Component Framework](https://svelte.dev/) (This is similar to React/Vue, except it runs at build time)
+* [Svelte YGLF Video](https://www.youtube.com/watch?v=AdNJ3fydeao)
 
-**Link(s) to work:** 
+**Link(s) to work:**
 * [University Project Website](https://stume.herokuapp.com) (Not linking github as it is private for tutors to mark)
 * [FreeCodeCamp Daily-Work Timeline](https://www.freecodecamp.org/fcc863fdc60-4853-4520-93da-668ce5ffd9b2)
+
+### Day 4: May 17, 2019
+
+**Today's Progress:**
+* Started a js course teaching basic concepts through the creation of a game.
+
+**Things to Remember**
+* Look properly through form validation and ensure it is clear and concise.
+
+**Thoughts:**
+* Didn't do much again today. Need to fix some bugs in website. Got to focus and sleep earlier.
+
+**Link(s) to resources I found interesting:**
+[Javascript Form Validation](http://javascript-coder.com/html-form/javascript-form-validation.phtml)
+
+**Link(s) to work:**
+* [University Project Website](https://stume.herokuapp.com) (Not linking github as it is private for tutors to mark)
