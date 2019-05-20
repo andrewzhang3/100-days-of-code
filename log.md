@@ -10,6 +10,8 @@
 - [ ] Start Colt Steele's React Course.
 - [ ] Practice on Front/Backend Coding Challenge.
 - [ ] Continue with StuMe after Uni
+- [ ] Check out JS platformer [Building a platformer in javascript](https://www.youtube.com/watch?v=opiWzi0KWjs&t=4s)
+- [ ] Check out Twitter bot [Coding Train Twitter-Bot Tutorial](https://www.youtube.com/watch?v=s70-Vsud9Vk&t=33s)
 
 ### Day 1: May 14, 2019
 
@@ -118,3 +120,22 @@
 
 **Link(s) to work:**
 * [Colt Steele WebDevBootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 6: May 19, 2019
+
+**Today's Progress:**
+* Spent the whole day doing university projects. Not much else.
+
+**Things to Remember**
+* Understand the usage of remember popen() usage!
+
+**Thoughts:**
+* Been swamped with university work so won't be able to do much coding and learning of my own (outside of school work). Need to sleep earlier. Maybe get some exercise to refresh my mind.
+
+**Link(s) to resources I found interesting:**
+[Linux Exec System Call](https://www.youtube.com/watch?v=mj2VjcOXXs4)
+[Linux Fork and Exec](https://www.youtube.com/watch?v=l64ySYHmMmY)
+[Building a platformer in javascript](https://www.youtube.com/watch?v=opiWzi0KWjs&t=4s)
+
+**Link(s) to work:**
+* N/A
