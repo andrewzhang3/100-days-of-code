@@ -101,3 +101,20 @@
 
 **Link(s) to work:**
 * [University Project Website](https://stume.herokuapp.com) (Not linking github as it is private for tutors to mark)
+
+### Day 5: May 18, 2019
+
+**Today's Progress:**
+* Not much, just worked on a university assignment and finished the jQuery section from Colt Steele's WebDevBootcamp
+
+**Things to Remember**
+* Understand the usage of fork() and exec() family.
+
+**Thoughts:**
+* Been swamped with university work so won't be able to do much coding and learning of my own (outside of school work). Need to sleep earlier. Maybe get some exercise to refresh my mind.
+
+**Link(s) to resources I found interesting:**
+[Coding Train Twitter-Bot Tutorial](https://www.youtube.com/watch?v=s70-Vsud9Vk&t=33s)
+
+**Link(s) to work:**
+* [Colt Steele WebDevBootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
