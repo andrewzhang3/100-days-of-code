@@ -139,3 +139,25 @@
 
 **Link(s) to work:**
 * N/A
+
+### Day 7: May 25, 2019
+
+**Note: Took a break from this as I had a heavy load of University projects and didn't want to include it as part of my 100DaysOfCode but the workload has come back down so I'll be back to working on some side things!**
+
+**Today's Progress:**
+* Finished Section 17 - Color Game Project in Colt Steele's WebDevBootcamp
+* Made Todo List Project
+
+**Things to Remember**
+* Paper.js is a great animation/graphics library!
+* Howler.js for sounds!
+
+**Thoughts:**
+* Finally finished Colt Steele's WebDevBootcamp. It's been an amazing course and Colt is an amazing instructor. I bought this course about 9 weeks ago and have been doing it throughout the semester alongside my University courses so it's great to finally be finishing it after so long. I will probably take a look at some other courses to learn some more skills before hopping into his React course as I want to use React to help my mum build a website for her rental properties in Queenstown!
+
+**Link(s) to resources I found interesting:**
+[Paper.js](http://paperjs.org/)
+[Hower.js](https://cdnjs.com/libraries/howler)
+
+**Link(s) to work:**
+* [Colt Steele WebDevBootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
