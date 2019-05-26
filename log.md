@@ -3,7 +3,7 @@
 > *This will be more like a diary of thoughts and learning rather than dedicated to an hour a day on a certain project.*
 
 ## Planned Todo List
-- [ ] Finish Colt Steele's WebDevBootcamp.
+- [x] Finish Colt Steele's WebDevBootcamp.
 - [ ] Finish FreeCodecamp's Responsive Web Design Course.
 - [ ] Build at least 2 Personal Projects.
 - [ ] Build at least 3 Mini Projects dealing with a certain functionality.
@@ -157,7 +157,23 @@
 
 **Link(s) to resources I found interesting:**
 [Paper.js](http://paperjs.org/)
-[Hower.js](https://cdnjs.com/libraries/howler)
+[Howler.js](https://cdnjs.com/libraries/howler)
 
 **Link(s) to work:**
 * [Colt Steele WebDevBootcamp](https://www.udemy.com/the-web-developer-bootcamp/)
+
+### Day 8: May 26, 2019
+
+**Today's Progress:**
+* Finished Basic CSS on FreeCodeCamp Responsive Web Design Curriculum
+
+**Things to Remember**
+* Learnt that there are variables in CSS!!! And can make cute drawings that are animated!
+
+**Thoughts:**
+* Should've done more work but was writing up a report for my Assignment. Got 6 hours of class tomorrow but hopefully can fit in some more! Also should sleep earlier and plan out my tasks to do as exams get closer!
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [FreeCodeCamp Public Portfolio](https://www.freecodecamp.org/fcc863fdc60-4853-4520-93da-668ce5ffd9b2)
