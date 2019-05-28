@@ -177,3 +177,39 @@
 
 **Link(s) to work:**
 * [FreeCodeCamp Public Portfolio](https://www.freecodecamp.org/fcc863fdc60-4853-4520-93da-668ce5ffd9b2)
+
+### Day 9: May 27, 2019
+
+**Today's Progress:**
+* Did some of the Applied Visual Design on FreeCodeCamp
+
+**Things to Remember**
+* Just some recap for me as I've covered most of this already.
+
+**Thoughts:**
+* Need to sleep earlier, last two projects to get done before studying for exams.
+
+**Link(s) to resources I found interesting:**
+
+
+**Link(s) to work:**
+* [FreeCodeCamp Public Portfolio](https://www.freecodecamp.org/fcc863fdc60-4853-4520-93da-668ce5ffd9b2)
+
+### Day 10: May 28, 2019
+
+**Today's Progress:**
+* Medium Articles on JS
+
+**Things to Remember**
+
+**Thoughts:**
+* Spent most of the day on projects again, but did read through some interesting articles on medium
+
+**Link(s) to resources I found interesting:**
+[JS Async & Await](https://medium.com/@zellwk/an-introduction-to-javascripts-async-and-await-edb313356677)
+[JS Promises](https://zellwk.com/blog/js-promises/)
+[JS Callbacks](https://zellwk.com/blog/callbacks/)
+[JS ES6](https://zellwk.com/blog/es6/)
+
+**Link(s) to work:**
+* [FreeCodeCamp Public Portfolio](https://www.freecodecamp.org/fcc863fdc60-4853-4520-93da-668ce5ffd9b2)
