@@ -213,3 +213,34 @@
 
 **Link(s) to work:**
 * [FreeCodeCamp Public Portfolio](https://www.freecodecamp.org/fcc863fdc60-4853-4520-93da-668ce5ffd9b2)
+
+### Day 11: May 29, 2019
+
+**Today's Progress:**
+* User Profiles on YelpCamp
+
+**Things to Remember**
+
+**Thoughts:**
+* Made user profiles on yelpcamp. Was quick and fun, and will definitely implement on my website!
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+[YelpCamp](https://yelpcamp9799.herokuapp.com/campgrounds)
+
+### Day 12: May 30, 2019
+
+**Today's Progress:**
+* Did more of FreeCodeCamps Applied Visual Design
+
+**Things to Remember**
+
+**Thoughts:**
+* Finished another university project and just got one more! Excited to have more time for learning outside of uni!
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [FreeCodeCamp Public Portfolio](https://www.freecodecamp.org/fcc863fdc60-4853-4520-93da-668ce5ffd9b2)
+
