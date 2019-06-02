@@ -12,6 +12,8 @@
 - [ ] Continue with StuMe after Uni
 - [ ] Check out JS platformer [Building a platformer in javascript](https://www.youtube.com/watch?v=opiWzi0KWjs&t=4s)
 - [ ] Check out Twitter bot [Coding Train Twitter-Bot Tutorial](https://www.youtube.com/watch?v=s70-Vsud9Vk&t=33s)
+- [ ] Finish Code with Node
+- [ ] Sentdex Basic JS tutorials
 
 ### Day 1: May 14, 2019
 
@@ -243,4 +245,53 @@
 
 **Link(s) to work:**
 * [FreeCodeCamp Public Portfolio](https://www.freecodecamp.org/fcc863fdc60-4853-4520-93da-668ce5ffd9b2)
+
+### Day 13: May 31, 2019
+
+**Today's Progress:**
+* Add User Profiles to YelpCamp
+
+**Things to Remember**
+
+**Thoughts:**
+* Getting started on my final project and did a tutorial on user profiles before trying to add to my website for the project.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [University Project Website](https://stume.herokuapp.com) (Not linking github as it is private for tutors to mark)
+
+### Day 14: June 1, 2019
+
+**Today's Progress:**
+* Add User Profiles to StuMe
+
+**Things to Remember**
+* Always make sure Code is neat and organised. Messy code is a N I G H T M A R E
+
+**Thoughts:**
+* Getting started on my final project and did a tutorial on user profiles before trying to add to my website for the project.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [University Project Website](https://stume.herokuapp.com) (Not linking github as it is private for tutors to mark)
+
+### Day 15: June 2, 2019
+
+**Today's Progress:**
+* Submitted final project
+* Sentdex Running functions on an Interval with setInterval and Conditionals
+
+**Things to Remember**
+
+**Thoughts:**
+* Finished all projects for the semester. Now hopefully I have more time for side things! Learning more about the canvas. Quite interesting. Looking to do more tomorrow!
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [University Project Website](https://stume.herokuapp.com) (Not linking github as it is private for tutors to mark)
+
+
 
