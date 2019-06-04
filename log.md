@@ -309,3 +309,18 @@
 **Link(s) to work:**
 * [Sentdex JS Tutorial Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2_A04M-m0WubgLf2_geR6)
 
+### Day 17: June 4, 2019
+
+**Today's Progress:**
+* Code with Node set up routes and database
+
+**Things to Remember**
+
+**Thoughts:**
+* Did some more of the online course, currently trying to think how I could adapt the course so it's not just doing what he's doing but putting my own twist on it. Managed to get a good amount of exam study done today too, so quite productive today!
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [Code with Node](https://www.udemy.com/code-with-node/)
+
