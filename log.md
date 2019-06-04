@@ -293,5 +293,19 @@
 **Link(s) to work:**
 * [University Project Website](https://stume.herokuapp.com) (Not linking github as it is private for tutors to mark)
 
+### Day 16: June 3, 2019
 
+**Today's Progress:**
+* Sentdex OOSD & For Loops
+* Code with Node module 1
+
+**Things to Remember**
+
+**Thoughts:**
+* Studying for exams and doing a bit of coding on a new tutorial and gonna try out react too
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [Sentdex JS Tutorial Playlist](https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2_A04M-m0WubgLf2_geR6)
 
