@@ -324,3 +324,21 @@
 **Link(s) to work:**
 * [Code with Node](https://www.udemy.com/code-with-node/)
 
+### Day 18: June 5, 2019
+
+**Today's Progress:**
+* Code with Node set up models and some user authentication
+
+**Things to Remember**
+* Async/Await and Promises and how to use them!
+
+**Thoughts:**
+* Finished some more of Code W/ Node and also finished his Ajax course. Quite interesting but a bit complex, got to learn more and apply it!
+
+**Link(s) to resources I found interesting:**
+* [Async/Await/Promises/Callbacks Tutorial](https://www.youtube.com/watch?v=PoRJizFvM7s&t=185s)
+
+**Link(s) to work:**
+* [Code with Node](https://www.udemy.com/code-with-node/)
+* [Jquery Ajax](https://www.udemy.com/jquery-ajax/)
+
