@@ -342,3 +342,45 @@
 * [Code with Node](https://www.udemy.com/code-with-node/)
 * [Jquery Ajax](https://www.udemy.com/jquery-ajax/)
 
+### Day 19: June 6, 2019
+
+**Today's Progress:**
+* Mostly worked on exam study
+
+**Things to Remember**
+
+**Thoughts:**
+* Organise time better and don't get distracted! Procrastination is a monster.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+
+### Day 20: June 7, 2019
+
+**Today's Progress:**
+* More exam study
+
+**Things to Remember**
+
+**Thoughts:**
+* Walked around outside for break, should do this more often. Studying is a bit behind but will try to catch up onto my schedule.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+
+### Day 21: June 8, 2019
+
+**Today's Progress:**
+* More exam study
+
+**Things to Remember**
+
+**Thoughts:**
+* Cooking more instead of using exam study as an excuse to order food. Saves money is healthier but I do end up spending quite a while cooking sometimes. Goes back to time management.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+
