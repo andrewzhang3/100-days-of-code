@@ -384,3 +384,19 @@
 
 **Link(s) to work:**
 
+### Day 22: June 30, 2019
+
+**Today's Progress:**
+* Did freeCodeCamp's Applied Accessibility section.
+
+**Things to Remember**
+
+**Thoughts:**
+* Exams are finally over so I can dedicate more time to this! Looking forward to doing a lot this break time!
+
+**Link(s) to resources I found interesting:**
+* [The Coming Software Apocalypse](https://www.theatlantic.com/technology/archive/2017/09/saving-the-world-from-code/540393/)
+* [HTTPS on your local environment](https://www.freecodecamp.org/news/how-to-get-https-working-on-your-local-development-environment-in-5-minutes-7af615770eec/)
+
+**Link(s) to work:**
+* [Curriculum for FreeCodeCamp](https://learn.freecodecamp.org/)
