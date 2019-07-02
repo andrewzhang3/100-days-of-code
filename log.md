@@ -400,3 +400,36 @@
 
 **Link(s) to work:**
 * [Curriculum for FreeCodeCamp](https://learn.freecodecamp.org/)
+
+### Day 23: July 1, 2019
+
+**Today's Progress:**
+* Did a bit more of Code w/ Node's course
+
+**Things to Remember**
+
+**Thoughts:**
+* Didn't get to do too much but slept early because I'm starting an internship at property site tomorrow! Need to be more efficient with my time.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+
+### Day 24: July 2, 2019
+
+**Today's Progress:**
+* Tested some of the new things on a beta version of hougarden app using Charles by setting up a proxy.
+
+**Things to Remember**
+* Firebase, Charles, Fiddler, JTM, Google Analytics-Measurement Protocol.
+* These are all new technologies to take a look at.
+
+**Thoughts:**
+* First day at a new internship, learnt about the technologies they use and did a bit of work testing their app. Was interesting to do something new with proxies etc. Hopefully can do something more interesting on day 2!
+
+**Link(s) to resources I found interesting:**
+* [Charles Proxy Tutorial for iOS](https://www.raywenderlich.com/1827524-charles-proxy-tutorial-for-ios)
+* [Why Learn Python?](https://dev.to/javinpaul/why-every-programmer-should-learn-python-in-2019-157i)
+* [Google Analytics Devguide](https://developers.google.com/analytics/devguides/collection/protocol/v1/devguide)
+
+**Link(s) to work:**
