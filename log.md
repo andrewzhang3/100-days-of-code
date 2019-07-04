@@ -433,3 +433,32 @@
 * [Google Analytics Devguide](https://developers.google.com/analytics/devguides/collection/protocol/v1/devguide)
 
 **Link(s) to work:**
+
+### Day 25: July 3, 2019
+
+**Today's Progress:**
+* Did more testing for iOS version at work
+* Did CSS Flexbox and Responsive Web Design Principles
+
+**Things to Remember**
+
+**Thoughts:**
+* Wasn't much to do at work so I studied, and did some more work on the testing.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+
+### Day 26: July 4, 2019
+
+**Today's Progress:**
+* Did more testing on the OneRoof App and got set up for the next days work. Did CSS Grids and worked a bit on the first project in freeCodeCamp.
+
+**Things to Remember**
+
+**Thoughts:**
+* Third day at internship, still much of the same. Senior dev too busy to give me any real work. Just studied and did some more testing using Charles Web Proxy.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
