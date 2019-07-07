@@ -499,3 +499,18 @@
 
 **Link(s) to work:**
 
+### Day 29: July 7, 2019
+
+**Today's Progress:**
+* Started going through the "You Don't Know Javascript" book series
+
+**Things to Remember**
+
+**Thoughts:**
+* Almost finished book 1 of the "You Don't Know Javascript", looking forward to digging deeper into concepts and learning more about the language!
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
