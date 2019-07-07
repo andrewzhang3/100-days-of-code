@@ -14,6 +14,9 @@
 - [ ] Check out Twitter bot [Coding Train Twitter-Bot Tutorial](https://www.youtube.com/watch?v=s70-Vsud9Vk&t=33s)
 - [ ] Finish Code with Node
 - [ ] Sentdex Basic JS tutorials
+- [ ] Finish [Flexbox Froggy](https://flexboxfroggy.com/)
+- [ ] Finish [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+- [ ] Finish [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
 ### Day 1: May 14, 2019
 
@@ -462,3 +465,37 @@
 **Link(s) to resources I found interesting:**
 
 **Link(s) to work:**
+
+### Day 27: July 5, 2019
+
+**Today's Progress:**
+* Finished testing for One Roof.
+* Finished Survey Form Project Task on freeCodeCamp
+
+**Things to Remember**
+
+**Thoughts:**
+* Fourth day at internship, after testing OneRoof I didn't have any other work to do so i just shadowed the lead developer in charge.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+
+### Day 28: July 6, 2019
+
+**Today's Progress:**
+* Discovered more resources for learning.
+
+**Things to Remember**
+
+**Thoughts:**
+* Didn't do much coding but found more resources for learning and worked on a vlog on my most recent trip to japan!
+
+**Link(s) to resources I found interesting:**
+* [Flexbox Froggy](https://flexboxfroggy.com/)
+* [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+* [CodePip (Educational Games)](https://codepip.com/)
+
+**Link(s) to work:**
+
