@@ -514,3 +514,33 @@
 **Link(s) to work:**
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 
+### Day 30: July 16, 2019
+
+**Today's Progress:**
+* Started going through the "You Don't Know Javascript" book series
+
+**Things to Remember**
+
+**Thoughts:**
+* Took a bit of a break from this to settle into work due to working 9-6 and feeling a bit burnt out at the end of the day. Going to try get back into it! So far at work have just used Charles to grab packets from the app to see if it was sending tracking data correctly, and writing up a python script to retrieve information about all the cars from trademe into a json file.
+
+**Link(s) to resources I found interesting:**
+
+
+**Link(s) to work:**
+* [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
+### Day 31: July 17, 2019
+
+**Today's Progress:**
+* Did some Leetcode and started Colt Steele's React Bootcamp!
+
+**Things to Remember**
+
+**Thoughts:**
+* Slowly getting back into the rhythm of things, did some more React and learnt about JSX and properties in react! 
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+
