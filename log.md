@@ -544,3 +544,61 @@
 
 **Link(s) to work:**
 
+### Day 32: July 18, 2019
+
+**Today's Progress:**
+* Worked on Python Automate the boring stuff
+
+**Things to Remember**
+
+**Thoughts:**
+* Starting from the basics and learning a bit about the fundamentals of python, quite interesting.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/chapter4/)
+
+### Day 33: July 19, 2019
+
+**Today's Progress:**
+* Did some Leetcoding, finished one on deleting a node from a linked list knowing only how far it is from the end.
+
+**Things to Remember**
+
+**Thoughts:**
+* Interesting question and quite challenging.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+
+### Day 34: July 20, 2019
+
+**Today's Progress:**
+* Worked on Python Automate the boring stuff some more, got up to chapter 7
+
+**Things to Remember**
+
+**Thoughts:**
+* Starting from the basics and learning a bit about the fundamentals of python, quite interesting.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/chapter7/)
+
+### Day 35: July 21, 2019
+
+**Today's Progress:**
+* Finished Module 3 of Colt Steele's React BootCamp
+
+**Things to Remember**
+
+**Thoughts:**
+* Learnt about props, was interesting and bit challenging piecing all the new bits together. Onto create-react-app next!
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [Colt Steele React BootCamp](https://www.udemy.com/modern-react-bootcamp/)
