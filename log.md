@@ -602,3 +602,18 @@
 
 **Link(s) to work:**
 * [Colt Steele React BootCamp](https://www.udemy.com/modern-react-bootcamp/)
+
+### Day 36: July 22, 2019
+
+**Today's Progress:**
+* Read half of chapter 8 for automate the boring stuff
+
+**Things to Remember**
+
+**Thoughts:**
+* This chapter feels a bit dry but I feel like it's necessary and an important step so powering through!
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/chapter8/)
