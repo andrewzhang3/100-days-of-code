@@ -13,10 +13,11 @@
 - [ ] Check out JS platformer [Building a platformer in javascript](https://www.youtube.com/watch?v=opiWzi0KWjs&t=4s)
 - [ ] Check out Twitter bot [Coding Train Twitter-Bot Tutorial](https://www.youtube.com/watch?v=s70-Vsud9Vk&t=33s)
 - [ ] Finish Code with Node
-- [ ] Sentdex Basic JS tutorials
+- [x] Sentdex Basic JS tutorials
 - [ ] Finish [Flexbox Froggy](https://flexboxfroggy.com/)
 - [ ] Finish [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
 - [ ] Finish [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+- [ ] Finish [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc)
 
 ### Day 1: May 14, 2019
 
@@ -614,6 +615,22 @@
 * This chapter feels a bit dry but I feel like it's necessary and an important step so powering through!
 
 **Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [Automate the Boring Stuff](https://automatetheboringstuff.com/chapter8/)
+
+### Day 37: July 23, 2019
+
+**Today's Progress:**
+* Finished Chapter 8 of Automate the Boring Stuff
+
+**Things to Remember**
+
+**Thoughts:**
+* Feels satisfying to finish the mini projects at the end of the chapter! Completed the multiple clipboard, madlibs project (madlibs is basically looking at the text of a file and replacing any (ADJECTIVE|NOUN|ADVERB|VERB) with user input) and regex search that searches a specified follder for all .txt files and looks for any lines that match a user inputted regex.
+
+**Link(s) to resources I found interesting:**
+* [Web Dev Resources](https://webdevresources.info/)
 
 **Link(s) to work:**
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/chapter8/)
