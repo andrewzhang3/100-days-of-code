@@ -635,13 +635,13 @@
 **Link(s) to work:**
 * [Automate the Boring Stuff](https://automatetheboringstuff.com/chapter8/)
 
-### Day 38: August 4, 2019
+### Day 38: August 3, 2019
 
 **Today's Progress:**
 * Finished Pokedex section of Colt Steele's React Bootcamp
 
 **Things to Remember**
-* Remember usage of backticks ` ` that allow for ${} to inject javascript.
+* Remember usage of backticks \`\` that allow for ${} to inject javascript.
 * Remember usage of props and destructuring
 * Remember usage of map(), filter() and reduce().
 
@@ -653,3 +653,21 @@
 
 **Link(s) to work:**
 * [Colt Steele React Bootcamp](https://www.udemy.com/modern-react-bootcamp/)
+
+### Day 39: August 4, 2019
+
+**Today's Progress:**
+* Did some of Colt Steele's React State Module
+
+**Things to Remember**
+* 
+
+**Thoughts:**
+* Did more University work today but still managed to do some learning on react!
+
+**Link(s) to resources I found interesting:**
+* 
+
+**Link(s) to work:**
+* [Colt Steele React Bootcamp](https://www.udemy.com/modern-react-bootcamp/)
+
