@@ -671,3 +671,20 @@
 **Link(s) to work:**
 * [Colt Steele React Bootcamp](https://www.udemy.com/modern-react-bootcamp/)
 
+### Day 40: August 8, 2019
+
+**Today's Progress:**
+* Did more of the React State module of Colt Steeles React Bootcamp
+
+**Things to Remember**
+* Usage of props in constructor and super and the alternate syntax using babel that drops them off and only requires state.
+
+**Thoughts:**
+* Finished up on a lot of lectures today and managed to fit in some React.
+
+**Link(s) to resources I found interesting:**
+* 
+
+**Link(s) to work:**
+* [Colt Steele React Bootcamp](https://www.udemy.com/modern-react-bootcamp/)
+
