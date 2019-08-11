@@ -688,3 +688,23 @@
 **Link(s) to work:**
 * [Colt Steele React Bootcamp](https://www.udemy.com/modern-react-bootcamp/)
 
+### Day 41: August 10, 2019
+
+**Today's Progress:**
+* Looked at and played around with Chrome Extensions
+
+**Things to Remember**
+* Manifest.json is the overall configuration of the chrome extension. What it is allowed to do and when it is allowed to do it.
+* Content.js script is js code that lives within the actual of content of any given webpage you happen to be on.
+* Background.js is code that runs as soon as Chrome is launched that can listen for various events and do a variety of other things to effect how the browser as a whole behaves.
+* Background script can listen for a browser_action like pressing a button and send a message to the content script to do stuff to the content.
+* Anything that can be in a web page can be in a popup.
+
+**Thoughts:**
+* Got interested in Chrome Extensions and played around a bit, might make one for me and my girlfriend!
+
+**Link(s) to resources I found interesting:**
+* [Youtube Ad Skipper Chrome Extension](https://github.com/andykawabata/youtube_ad_skipper)
+
+**Link(s) to work:**
+* [Colt Steele React Bootcamp](https://www.udemy.com/modern-react-bootcamp/)
