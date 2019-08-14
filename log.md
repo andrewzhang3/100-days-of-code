@@ -708,3 +708,67 @@
 
 **Link(s) to work:**
 * [Colt Steele React Bootcamp](https://www.udemy.com/modern-react-bootcamp/)
+
+### Day 42: August 11, 2019
+
+**Today's Progress:**
+* Tried to implement new tab chrome extension based on momentum but with uigradient API
+
+**Things to Remember**
+
+**Thoughts:**
+* Played around more with chrome extensions and managed to get gradient background to appear randomly
+
+**Link(s) to resources I found interesting:**
+* 
+
+**Link(s) to work:**
+* 
+
+### Day 43: August 12, 2019
+
+**Today's Progress:**
+* Tried to implement Chrome extension progress so far but with react.js framework
+
+**Things to Remember**
+
+**Thoughts:**
+* Implementing the same thing but in react didn't work as seamlessly as expected as multiple other errors occurred. Didn't manage to get it working properly.
+
+**Link(s) to resources I found interesting:**
+* 
+
+**Link(s) to work:**
+* 
+
+### Day 44: August 13, 2019
+
+**Today's Progress:**
+* Made more progress on Chrome extension but vanilla version
+
+**Things to Remember**
+
+**Thoughts:**
+* Went back to working on the chrome extension in vanilla javascript. Managed to add a clock that shows the current time and updates every second.
+
+**Link(s) to resources I found interesting:**
+* 
+
+**Link(s) to work:**
+* 
+
+### Day 45: August 14, 2019
+
+**Today's Progress:**
+* Added 24Hr and 12Hr time on clock on Chrome Extension
+
+**Things to Remember**
+
+**Thoughts:**
+* Managed to implement feature where clicking on the time swaps between 24hr clock and 12hr clock.
+
+**Link(s) to resources I found interesting:**
+* 
+
+**Link(s) to work:**
+* 
