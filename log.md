@@ -772,3 +772,19 @@
 
 **Link(s) to work:**
 * 
+
+### Day 46: August 15, 2019
+
+**Today's Progress:**
+* Looked into setting up a MERN stack application.
+
+**Things to Remember**
+
+**Thoughts:**
+* So far it's very interesting to see the differences in using react as apposed to vanilla javascript in connecting the server and the client and using reactstrap. Next up is learning redux which will be tough but hopefully rewarding.
+
+**Link(s) to resources I found interesting:**
+* [Async, Await, Callbacks Explanation](https://medium.com/front-end-weekly/callbacks-promises-and-async-await-ad4756e01d90)
+
+**Link(s) to work:**
+* [Intro to MERN Stack](https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
