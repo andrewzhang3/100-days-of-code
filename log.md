@@ -788,3 +788,53 @@
 
 **Link(s) to work:**
 * [Intro to MERN Stack](https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
+
+### Day 47: August 16, 2019
+
+**Today's Progress:**
+* Learnt about Redux stores, dispatch, actions, thunks.
+
+**Things to Remember**
+
+**Thoughts:**
+* Redux has been quite confusing and I'm not sure if it'll be necessary for the small project I'm doing. But it is definitely something I want to learn
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [Intro to MERN Stack](https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
+
+### Day 48: August 17, 2019
+
+**Today's Progress:**
+* Went through the deployment of the MERN Stack.
+
+**Things to Remember**
+
+**Thoughts:**
+* Deployed the ToDo List on Heroku, interesting learning about concurrently. 
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [Intro to MERN Stack](https://www.youtube.com/playlist?list=PLillGF-RfqbbiTGgA77tGO426V3hRF9iE)
+
+### Day 49: August 18, 2019
+
+**Today's Progress:**
+* Set up Static (IT Project) github repo with front-end and back-end linked up.
+* Organised Trello
+* Planned Project Scope
+
+**Things to Remember**
+
+**Thoughts:**
+* Deployed the ToDo List on Heroku, interesting learning about concurrently. 
+
+**Link(s) to resources I found interesting:**
+* [Beginners Guide to React Component Lifecycle](https://blog.pusher.com/beginners-guide-react-component-lifecycle/)
+* [Why we need Redux](https://stackoverflow.com/questions/51064041/why-we-need-redux-in-react)
+* [React Router for Beginners](https://www.youtube.com/watch?v=Law7wfdg_ls)
+
+**Link(s) to work:**
+* [Build a Fullstack MERN Application](https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274)
