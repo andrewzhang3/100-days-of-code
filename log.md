@@ -838,3 +838,20 @@
 
 **Link(s) to work:**
 * [Build a Fullstack MERN Application](https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274)
+
+### Day 50: February 7, 2020
+
+**Today's Progress:**
+* Completed half of section 10 of Modern React Bootcamp
+
+**Things to Remember**
+* Binding inline in render causes a new function every render.
+
+**Thoughts:**
+* Have not done this in a long time but I want to get back into it. Will be starting work soon but still want to do some work in my own time to prepare for grad jobs
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [Colt Steele React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14375660#content)
+
