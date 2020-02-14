@@ -7,17 +7,17 @@
 - [ ] Finish FreeCodecamp's Responsive Web Design Course.
 - [ ] Build at least 2 Personal Projects.
 - [ ] Build at least 3 Mini Projects dealing with a certain functionality.
-- [ ] Start Colt Steele's React Course.
+- [ ] Finish Colt Steele's React Course.
 - [ ] Practice on Front/Backend Coding Challenge.
-- [ ] Continue with StuMe after Uni
+- [ ] ~~Continue with StuMe after Uni~~
 - [ ] Check out JS platformer [Building a platformer in javascript](https://www.youtube.com/watch?v=opiWzi0KWjs&t=4s)
 - [ ] Check out Twitter bot [Coding Train Twitter-Bot Tutorial](https://www.youtube.com/watch?v=s70-Vsud9Vk&t=33s)
-- [ ] Finish Code with Node
+- [ ] ~~Finish Code with Node~~
 - [x] Sentdex Basic JS tutorials
 - [ ] Finish [Flexbox Froggy](https://flexboxfroggy.com/)
 - [ ] Finish [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
 - [ ] Finish [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
-- [ ] Finish [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc)
+- [x] Finish [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc)
 
 ### Day 1: May 14, 2019
 
@@ -870,3 +870,22 @@
 
 **Link(s) to work:**
 * [Colt Steele React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14375660#content)
+
+### Day 52: February 14, 2020
+
+**Today's Progress:**
+* Finished Hangman challenge on React Course.
+
+**Things to Remember**
+* 
+
+**Thoughts:**
+* Managed to finish a coding task on React. Will try do algorithms tomorrow.
+
+**Link(s) to resources I found interesting:**
+* [Javascript Prototyping](https://www.freecodecamp.org/news/all-you-need-to-know-to-understand-javascripts-prototype-a2bff2d28f03/)
+* [Javascript OOP](https://www.freecodecamp.org/news/how-javascript-implements-oop/)
+
+**Link(s) to work:**
+* [Colt Steele React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14375660#content)
+
