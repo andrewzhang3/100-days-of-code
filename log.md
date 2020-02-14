@@ -855,3 +855,18 @@
 **Link(s) to work:**
 * [Colt Steele React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14375660#content)
 
+### Day 51: February 13, 2020
+
+**Today's Progress:**
+* Completed section 10 of Modern React Bootcamp
+
+**Things to Remember**
+* Make sure to always have key for map and make it unique. Can use uuid or shortid library.
+
+**Thoughts:**
+* I want to manage to do at least one algorithm problem on leetcode every day, as well as read one chapter of You Don't Know JS, and at least one video of the react course. This is my goal to reach, as I really want to have a good shot at some Sydney Grad Jobs.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [Colt Steele React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14375660#content)
