@@ -18,6 +18,8 @@
 - [ ] Finish [Flexbox Zombies](https://mastery.games/p/flexbox-zombies)
 - [ ] Finish [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 - [x] Finish [Automate the Boring Stuff](https://automatetheboringstuff.com/#toc)
+- [ ] [A Cloud Guru, Solutions Architect Associate Certification](https://learn.acloud.guru/dashboard)
+- [ ] [Salesforce Admin Certificate](https://trailhead.salesforce.com/credentials/administrator)
 
 ### Day 1: May 14, 2019
 
@@ -888,4 +890,22 @@
 
 **Link(s) to work:**
 * [Colt Steele React Bootcamp](https://www.udemy.com/course/modern-react-bootcamp/learn/lecture/14375660#content)
+
+### Day 53: March 3rd, 2020
+
+**Today's Progress:**
+* Been doing a lot of Trailhead, finished Developer Beginner Trailmix
+* Finished Introduction Module for AWS Certified Solutions Architect course on A Cloud Guru
+
+**Things to Remember**
+* 
+
+**Thoughts:**
+* Managed to finish a coding task on React. Will try do algorithms tomorrow.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [AWS Certified Solutions Architect - A Cloud Guru](https://acloud.guru/course/aws-certified-solutions-architect-associate/learn/aws-overview/history/watch)
+* [Developer Beginner - Trailhead](https://trailhead.salesforce.com/en/content/learn/trails/force_com_dev_beginner)
 
