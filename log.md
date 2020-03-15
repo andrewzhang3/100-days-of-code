@@ -909,3 +909,18 @@
 * [AWS Certified Solutions Architect - A Cloud Guru](https://acloud.guru/course/aws-certified-solutions-architect-associate/learn/aws-overview/history/watch)
 * [Developer Beginner - Trailhead](https://trailhead.salesforce.com/en/content/learn/trails/force_com_dev_beginner)
 
+### Day 54: March 15rd, 2020
+
+**Today's Progress:**
+* Finished Chapter 2 and 3 for AWS Certified Solutions Architect course on A Cloud Guru.
+
+**Things to Remember**
+* 
+
+**Thoughts:**
+* I've been forgetting to update this, but I've made good progress on A Cloud Guru as well as Trailhead. I've also made fixes to my python web-scraper.
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [AWS Certified Solutions Architect - A Cloud Guru](https://acloud.guru/course/aws-certified-solutions-architect-associate/learn/aws-overview/history/watch)
