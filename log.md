@@ -924,3 +924,37 @@
 
 **Link(s) to work:**
 * [AWS Certified Solutions Architect - A Cloud Guru](https://acloud.guru/course/aws-certified-solutions-architect-associate/learn/aws-overview/history/watch)
+
+### Day 55: March 20th, 2020
+
+**Today's Progress:**
+* Joined a volunteer group for working on COVID-19 real-time tracker for Australia.
+* Created an Info Page for users to learn more about the disease and what to do.
+
+**Things to Remember**
+* 
+
+**Thoughts:**
+* Still bad at updating this, but I've done some more fixes to python webscraper, and made some good work on the COVID-19 project. Feeling productive!
+
+**Link(s) to resources I found interesting:**
+
+**Link(s) to work:**
+* [Covid-19-au github project](https://github.com/covid-19-au/covid-19-au.github.io)
+
+### Day 56: March 21th, 2020
+
+**Today's Progress:**
+* Created sticky navbar for the COVID-19-au project.
+
+**Things to Remember**
+* 
+
+**Thoughts:**
+* Made more progress on the covid-19-au project. Feels good contributing to the community! Hopefully will have more work to do tomorrow too.
+
+**Link(s) to resources I found interesting:**
+* [How to create a sticky header using react hooks](https://pantaley.com/blog/Create-sticky-header-only-with-React-Hooks/)
+
+**Link(s) to work:**
+* [Covid-19-au github project](https://github.com/covid-19-au/covid-19-au.github.io)
