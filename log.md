@@ -942,7 +942,7 @@
 **Link(s) to work:**
 * [Covid-19-au github project](https://github.com/covid-19-au/covid-19-au.github.io)
 
-### Day 56: March 21th, 2020
+### Day 56: March 21st, 2020
 
 **Today's Progress:**
 * Created sticky navbar for the COVID-19-au project.
@@ -958,3 +958,90 @@
 
 **Link(s) to work:**
 * [Covid-19-au github project](https://github.com/covid-19-au/covid-19-au.github.io)
+
+### Day 57: March 22nd, 2020
+
+**Today's Progress:**
+* Worked on the table for Hospital Cases, and added other media and Hotlines
+
+**Things to Remember**
+* 
+
+**Thoughts:**
+* Having difficulty with the hospital table, but should be able to get it done tomorrow.
+
+**Link(s) to resources I found interesting:**
+* [react-table](https://github.com/tannerlinsley/react-table)
+
+**Link(s) to work:**
+* [Covid-19-au github project](https://github.com/covid-19-au/covid-19-au.github.io)
+
+### Day 58: March 23rd, 2020
+
+**Today's Progress:**
+* Finished Hospital Table!
+
+**Things to Remember**
+* When copy-pasting code from a library, test the working version and slowly remove things. Not all at once!
+
+**Thoughts:**
+* Finally got the table working. Looks good and styled and added pagination.
+
+**Link(s) to resources I found interesting:**
+* [react-table](https://github.com/tannerlinsley/react-table)
+
+**Link(s) to work:**
+* [Covid-19-au github project](https://github.com/covid-19-au/covid-19-au.github.io)
+
+### Day 59: March 24th, 2020
+
+**Today's Progress:**
+* Applied for ANZ
+
+**Things to Remember**
+* 
+
+**Thoughts:**
+* Didn't work much on the website, but did my ANZ interview for grad roles!
+
+**Link(s) to resources I found interesting:**
+* 
+
+**Link(s) to work:**
+* 
+
+### Day 60: March 25th, 2020
+
+**Today's Progress:**
+* Learnt about double checking of news and confirmed cases data.
+
+**Things to Remember**
+* 
+
+**Thoughts:**
+* Need to learn some more about the whole deployment side of the site.
+
+**Link(s) to resources I found interesting:**
+* 
+
+**Link(s) to work:**
+* [Covid-19-au github project](https://github.com/covid-19-au/covid-19-au.github.io)
+
+### Day 61: March 26th, 2020
+
+**Today's Progress:**
+* Added routes
+* Did Telstra interview
+
+**Things to Remember**
+* 
+
+**Thoughts:**
+* Learnt how to create routes using hooks! (and a library called hookroutes).
+
+**Link(s) to resources I found interesting:**
+* [Routing with Hooks](https://blog.logrocket.com/how-react-hooks-can-replace-react-router/)
+
+**Link(s) to work:**
+* [Covid-19-au github project](https://github.com/covid-19-au/covid-19-au.github.io)
+
